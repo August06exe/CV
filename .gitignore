@@ -1,0 +1,11 @@
+# 忽略所有文件
+*
+
+# 但是不忽略以下目录和文件（白名单）
+!*/
+!index.html
+!style.css
+!assets/**
+!.gitignore
+!README.md
+!CNAME
